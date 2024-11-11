@@ -4,3 +4,6 @@ hello word
 added new lines 
 jfhjfhds
 jkjdf
+hello
+print
+
